@@ -480,3 +480,46 @@
 - strategy
 - template method
 - visitor
+
+## Python Tops
+
+(Python Developer Survey by JetBrains)[https://www.jetbrains.com/lp/python-developers-survey-2020/]
+
+- Web
+  - 46 Flask
+  - 43 Django
+- Data Science
+  - 62 NumPy
+  - 56 Pandas
+  - 46 Matplotlib
+  - 33 SciPy
+  - 31 SciKit Learn
+  - 25 Tensorflow
+  - 19 Keras
+  - 18 Seaborn
+  - 17 Pytorch
+  - 12 NLTK
+- Unit Testing
+  - 49 pytest
+  - 28 unittest
+- Other
+  - 54 Requests
+  - 32 Pillow
+  - 22 AsyncIO
+  - 19 Tkinter
+  - 16 Scrapy
+- ORM
+  - 35 SQLAlchemy
+  - 32 RAW SQL
+- Databases
+  - 46 Postgres
+  - 39 SQLite
+  - 38 MySQL
+  - 19 Mongo
+  - 18 Redis
+- Big Data
+  - 11 Spark
+  - 9 Kafka
+- CI
+  - GitLab 23
+  - Jenkins 21
