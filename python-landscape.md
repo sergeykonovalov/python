@@ -2,7 +2,7 @@
 
 ## Installation
 
-## Basic Python
+## Basics
 
 - Variables (naming, multiple assignment)
 - constants
