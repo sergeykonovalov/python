@@ -483,7 +483,7 @@
 
 ## Python Tops
 
-(Python Developer Survey by JetBrains)[https://www.jetbrains.com/lp/python-developers-survey-2020/]
+[Python Developer Survey by JetBrains](https://www.jetbrains.com/lp/python-developers-survey-2020/)
 
 - Web
   - 46 Flask
